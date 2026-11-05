@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@mapbox/mapbox-gl-draw": "^1.4.3",
-    "loci-sdk": "^0.0.1",
+    "loci-sdk": "^0.0.3",
     "mapbox-gl": "^3.8.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
